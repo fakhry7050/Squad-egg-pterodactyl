@@ -19,4 +19,4 @@ For detailed installation instructions, refer to the included installation.md fi
 # Credits
 ## Created by: Fakhry and Rectofen
 ## Support from: Ghoti and Cartitarul
-*** These individuals have contributed to the development of this project either by direct code contributions, testing, or providing insights and documentation help.
+*** These individuals have contributed to the development of this project either by direct code contributions, testing, or providing insights and documentation help. ***
