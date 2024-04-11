@@ -17,6 +17,6 @@ Configure the variables and paths according to your server setup.
 For detailed installation instructions, refer to the included installation.md file in this repository.
 
 # Credits
-Created by: Fakhry and Rectofen
-Support from: Ghoti and Cartitarul
-These individuals have contributed to the development of this project either by direct code contributions, testing, or providing insights and documentation help.
+## Created by: Fakhry and Rectofen
+## Support from: Ghoti and Cartitarul
+*** These individuals have contributed to the development of this project either by direct code contributions, testing, or providing insights and documentation help.
