@@ -7,7 +7,7 @@
     "exported_at": "2024-04-11T14:59:42+01:00",
     "name": "Wine Generic",
     "author": "parker@parkervcp.com",
-    "description": "a generic egg to run servers with wine",
+    "description": "Squad is a realism-based military tactical first-person shooter video game developed and published by Canadian indie developer Offworld Industries exclusively through the Steam distribution platform. It is a spiritual successor to the Project Reality modification for Battlefield 2.",
     "features": null,
     "docker_images": {
         "ghcr.io\/parkervcp\/yolks:wine_latest": "ghcr.io\/parkervcp\/yolks:wine_latest"
@@ -122,7 +122,7 @@
             "name": "tickrate",
             "description": "your numbers of max tickrate",
             "env_variable": "FIXEDMAXTICKRATE",
-            "default_value": "30",
+            "default_value": "50",
             "user_viewable": true,
             "user_editable": true,
             "rules": "required|string",
