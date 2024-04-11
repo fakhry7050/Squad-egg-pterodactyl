@@ -89,16 +89,6 @@
             "field_type": "text"
         },
         {
-            "name": "Rcon password",
-            "description": "Rcon password",
-            "env_variable": "rconpassword",
-            "default_value": "",
-            "user_viewable": true,
-            "user_editable": true,
-            "rules": "required",
-            "field_type": "text"
-        },
-        {
             "name": "Allowteamchange",
             "description": "Allow players to change teams ( true \\\/ false )",
             "env_variable": "allowteamchange",
