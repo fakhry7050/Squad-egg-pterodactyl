@@ -167,7 +167,7 @@
             "default_value": "1",
             "user_viewable": true,
             "user_editable": true,
-            "rules": "required|string|max:2",
+            "rules": "required|string|max:1",
             "field_type": "text"
         },
         {
